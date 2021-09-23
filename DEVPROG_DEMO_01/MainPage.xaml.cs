@@ -13,6 +13,7 @@ namespace DEVPROG_DEMO_01
         public MainPage()
         {
             InitializeComponent();
+
         }
     }
 }
