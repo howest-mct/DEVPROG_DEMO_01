@@ -1,13 +1,18 @@
-﻿namespace DEVPROG_DEMO_01;
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Xamarin.Forms;
 
-public partial class MainPage : ContentPage
+namespace DEVPROG_DEMO_01
 {
-
-	public MainPage()
-	{
-		InitializeComponent();
-	}
-
-	
+    public partial class MainPage : ContentPage
+    {
+        public MainPage()
+        {
+            InitializeComponent();
+        }
+    }
 }
-
